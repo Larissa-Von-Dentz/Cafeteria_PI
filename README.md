@@ -1,7 +1,22 @@
-# Cafeteria_PI
+# Título do projeto: Sistema de gestão de uma Cafeteria
 
-## Sobre o Projeto:
-O sistema de software para a cafeteria terá funcionalidades como controle de pedidos, controle de estoque, gerenciamento de funcionários, controle financeiro e relatórios. Será desenvolvido de forma a ser intuitivo e fácil de usar, tanto para os clientes como para os funcionários.
+## Status do projeto: 
+O projeto se encontra em desenvolvimento 
+
+## Time de desenvolvedores: 
+Larissa Eduarda Von Dentz
+
+## Sobre o Projeto e Objetivo do software:
+O sistema terá como objetivo auxiliar nas operações e gestão do estabelecimento, proporcionando uma melhor experiência para os clientes e facilitando o trabalho dos funcionários. O sistema de software para a cafeteria terá funcionalidades como controle de pedidos, controle de estoque, gerenciamento de funcionários, controle financeiro e relatórios. Será desenvolvido de forma a ser intuitivo e fácil de usar, tanto para os clientes como para os funcionários.
+
+## Funcionalidades do sistema: 
+- Cadastro de clientes: É necessário permitir que os atendentes cadastrem informações detalhadas dos clientes, como nome, e-mail e telefone.
+
+- Atendente: É necessário permitir que os atendentes cadastrem informações detalhadas dos clientes, como nome, e-mail e telefone.
+  
+- Controle de estoque: É necessário possibilitar o controle detalhado do estoque de produtos da cafeteria, incluindo a atualização automática dos níveis de estoque conforme novas entradas e saídas de produtos.
+  
+- Controle financeiro: É preciso fornecer ferramentas para o controle financeiro abrangente da cafeteria, incluindo registro de vendas, controle de despesas e cálculo de lucros. Deve ser capaz de integrar-se a sistemas de pagamento eletrônico para registro automático de vendas.
 
 ## Tecnologias Utilizadas:
 - Linguagem de Programação: Java
